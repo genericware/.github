@@ -4,26 +4,19 @@
 
 *foss templates*
 
-## system
+## source
 
-| ❗ experimental  |
-|-----------------|
-
-| ⚠️ in progress |
-|----------------|
-
-| project            | type       |
-|--------------------|------------|
-| [devops]           | terragrunt |
-| [minikube-cluster] | terraform  |
-| [doks-cluster]     | terraform  |
-| [eks-cluster]      | terraform  |
-| [gke-cluster]      | terraform  |
-| [aks-cluster]      | terraform  |
-| [helm-aoa]         | helm       |
-| [helm-internal]    | helm       |
-| [fastapi-app]      | python     |
-| [whitepaper]       | tex        |
+| project            | type       | quality         | status          |
+|--------------------|------------|-----------------|-----------------|
+| [devops]           | terragrunt | ❗ experimental  | ⚠️ in progress  |
+| [minikube-cluster] | terraform  | ❗ experimental  | ⚠️ in progress  |
+| [doks-cluster]     | terraform  | ❗ experimental  | ⚠️ in progress  |
+| [eks-cluster]      | terraform  | ❗ experimental  | ⚠️ in progress  |
+| [gke-cluster]      | terraform  | ❗ experimental  | ⚠️ in progress  |
+| [aks-cluster]      | terraform  | ❗ experimental  | ⚠️ in progress  |
+| [helm-aoa]         | helm       | ❗ experimental  | ⚠️ in progress  |
+| [helm-internal]    | helm       | ❗ experimental  | ⚠️ in progress  |
+| [fastapi-app]      | python     | ❗ experimental  | ⚠️ in progress  |
 
 ## stack
 
