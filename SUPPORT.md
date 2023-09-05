@@ -1,4 +1,4 @@
-# notice
+# support
 
 | ❗ experimental |
 |----------------|
