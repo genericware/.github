@@ -1,8 +1,8 @@
 <p style="color: white; border-width: 3px; border-radius: 30px; padding: 15px;">
-🌹 generic-infrastructure
+🌹 <i>generic-infrastructure</i>
 </p>
 
-*foss templates*
+*free and open source templates*
 
 ## source
 
