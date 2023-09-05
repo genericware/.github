@@ -18,6 +18,19 @@
 | [helm-internal]    | ❗ experimental | ⚠️ in progress |
 | [fastapi-app]      | ❗ experimental | ⚠️ in progress |
 
+## stack
+
+| level                                           | project                                                                                            |
+|-------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| ci/cd                                           | [terragrunt], [terraform], [helm], [kustomize], [argo-cd]                                          |
+| engines                                         | [minikube], [doks], [eks], [gke], [aks]                                                            |
+| issuers                                         | [cert-manager] ([selfsigned], [acme])                                                              |
+| networks                                        | [istio], [kiali], [knative]                                                                        |
+| events                                          | [strimzi] ([zookeeper], [kafka])                                                                   |
+| storage                                         | [postgres], [redis], [minio]                                                                       |
+| graphs, metrics, alerts <br/> logs <br/> traces | [kube-prometheus] ([grafana], [prometheus], [alertmanager]) <br/> [loki], [promtail] <br/> [tempo] |
+| apps                                            | [fastapi-app]                                                                                      |
+
 [devops]: https://github.com/generic-infrastructure/devops
 [minikube-cluster]: https://github.com/generic-infrastructure/minikube-cluster
 [doks-cluster]: https://github.com/generic-infrastructure/doks-cluster
@@ -27,20 +40,6 @@
 [helm-aoa]: https://github.com/generic-infrastructure/helm-aoa
 [helm-internal]: https://github.com/generic-infrastructure/helm-internal
 [fastapi-app]: https://github.com/generic-infrastructure/fastapi-app
-[whitepaper]: https://github.com/generic-infrastructure/whitepaper
-
-## stack
-
-| level     | project                                                                                  |
-|-----------|------------------------------------------------------------------------------------------|
-| ci/cd     | [terragrunt], [terraform], [helm], [kustomize], [argo-cd]                                |
-| engines   | [minikube], [doks], [eks], [gke], [aks]                                                  |
-| issuers   | [cert-manager] ([selfsigned], [acme])                                                    |
-| networks  | [istio], [kiali], [knative]                                                              |
-| events    | [strimzi] ([zookeeper], [kafka])                                                         |
-| databases | [postgres], [redis], [minio]                                                             |
-| etc       | [kube-prometheus] ([grafana], [prometheus], [alertmanager]), [loki], [promtail], [tempo] |
-| python    | [fastapi]                                                                                |
 
 [terragrunt]: https://terragrunt.gruntwork.io/
 [terraform]: https://www.terraform.io/
