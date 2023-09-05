@@ -6,17 +6,17 @@
 
 ## source
 
-| project            | type       | quality         | status          |
-|--------------------|------------|-----------------|-----------------|
-| [devops]           | terragrunt | ❗ experimental  | ⚠️ in progress  |
-| [minikube-cluster] | terraform  | ❗ experimental  | ⚠️ in progress  |
-| [doks-cluster]     | terraform  | ❗ experimental  | ⚠️ in progress  |
-| [eks-cluster]      | terraform  | ❗ experimental  | ⚠️ in progress  |
-| [gke-cluster]      | terraform  | ❗ experimental  | ⚠️ in progress  |
-| [aks-cluster]      | terraform  | ❗ experimental  | ⚠️ in progress  |
-| [helm-aoa]         | helm       | ❗ experimental  | ⚠️ in progress  |
-| [helm-internal]    | helm       | ❗ experimental  | ⚠️ in progress  |
-| [fastapi-app]      | python     | ❗ experimental  | ⚠️ in progress  |
+| project            | quality        | status         |
+|--------------------|----------------|----------------|
+| [devops]           | ❗ experimental | ⚠️ in progress |
+| [minikube-cluster] | ❗ experimental | ⚠️ in progress |
+| [doks-cluster]     | ❗ experimental | ⚠️ in progress |
+| [eks-cluster]      | ❗ experimental | ⚠️ in progress |
+| [gke-cluster]      | ❗ experimental | ⚠️ in progress |
+| [aks-cluster]      | ❗ experimental | ⚠️ in progress |
+| [helm-aoa]         | ❗ experimental | ⚠️ in progress |
+| [helm-internal]    | ❗ experimental | ⚠️ in progress |
+| [fastapi-app]      | ❗ experimental | ⚠️ in progress |
 
 ## stack
 
