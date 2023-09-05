@@ -18,6 +18,17 @@
 | [helm-internal]    | ❗ experimental | ⚠️ in progress |
 | [fastapi-app]      | ❗ experimental | ⚠️ in progress |
 
+[devops]: https://github.com/generic-infrastructure/devops
+[minikube-cluster]: https://github.com/generic-infrastructure/minikube-cluster
+[doks-cluster]: https://github.com/generic-infrastructure/doks-cluster
+[eks-cluster]: https://github.com/generic-infrastructure/eks-cluster
+[gke-cluster]: https://github.com/generic-infrastructure/gke-cluster
+[aks-cluster]: https://github.com/generic-infrastructure/aks-cluster
+[helm-aoa]: https://github.com/generic-infrastructure/helm-aoa
+[helm-internal]: https://github.com/generic-infrastructure/helm-internal
+[fastapi-app]: https://github.com/generic-infrastructure/fastapi-app
+[whitepaper]: https://github.com/generic-infrastructure/whitepaper
+
 ## stack
 
 | level     | project                                                                                  |
@@ -31,53 +42,34 @@
 | etc       | [kube-prometheus] ([grafana], [prometheus], [alertmanager]), [loki], [promtail], [tempo] |
 | python    | [fastapi]                                                                                |
 
-[//]: # (generic-infrastructure)
-[devops]: https://github.com/generic-infrastructure/devops
-[minikube-cluster]: https://github.com/generic-infrastructure/minikube-cluster
-[doks-cluster]: https://github.com/generic-infrastructure/doks-cluster
-[eks-cluster]: https://github.com/generic-infrastructure/eks-cluster
-[gke-cluster]: https://github.com/generic-infrastructure/gke-cluster
-[aks-cluster]: https://github.com/generic-infrastructure/aks-cluster
-[helm-aoa]: https://github.com/generic-infrastructure/helm-aoa
-[helm-internal]: https://github.com/generic-infrastructure/helm-internal
-[fastapi-app]: https://github.com/generic-infrastructure/fastapi-app
-[whitepaper]: https://github.com/generic-infrastructure/whitepaper
-
-[//]: # (ci/cd)
 [terragrunt]: https://terragrunt.gruntwork.io/
 [terraform]: https://www.terraform.io/
 [helm]: https://helm.sh/
 [kustomize]: https://kustomize.io/
 [argo-cd]: https://argoproj.github.io/cd/
 
-[//]: # (engines)
 [minikube]: https://minikube.sigs.k8s.io/docs/
 [aks]: https://learn.microsoft.com/en-us/azure/aks/
 [doks]: https://docs.digitalocean.com/products/kubernetes/
 [eks]: https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html
 [gke]: https://cloud.google.com/kubernetes-engine/
 
-[//]: # (issuers)
 [cert-manager]: https://cert-manager.io/
 [selfsigned]: https://cert-manager.io/docs/configuration/selfsigned/
 [acme]: https://cert-manager.io/docs/configuration/acme/
 
-[//]: # (networks)
 [istio]: https://istio.io/
 [kiali]: https://kiali.io/
 [knative]: https://knative.dev/docs/
 
-[//]: # (events)
 [strimzi]: https://strimzi.io/
 [zookeeper]: https://zookeeper.apache.org/
 [kafka]: https://kafka.apache.org/
 
-[//]: # (databases)
 [postgres]: https://www.postgresql.org/
 [redis]: https://redis.io/
 [minio]: https://min.io/
 
-[//]: # (etc)
 [kube-prometheus]: https://prometheus-operator.dev/
 [grafana]: https://grafana.com/
 [prometheus]: https://prometheus.io/
@@ -86,5 +78,4 @@
 [promtail]: https://grafana.com/docs/loki/latest/clients/promtail/
 [tempo]: https://grafana.com/docs/tempo/latest/
 
-[//]: # (apps)
 [fastapi]: https://fastapi.tiangolo.com/
