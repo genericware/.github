@@ -1,5 +1,5 @@
 <p style="color: white; border-width: 3px; border-radius: 30px; padding: 15px;">
-🌹 <i><u>generic-infrastructure</u></i>
+🌹 <u><i>generic-infrastructure</i></u>
 </p>
 
 *free and open source templates*
