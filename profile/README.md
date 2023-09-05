@@ -2,7 +2,7 @@
 🌹 generic-infrastructure
 </p>
 
-*free and open source templates*
+*foss templates*
 
 ## system
 
