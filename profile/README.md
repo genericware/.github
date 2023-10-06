@@ -7,7 +7,7 @@
 | projects             | description                    |
 |----------------------|--------------------------------|
 | [terragrunt-devops]  | kubernetes cluster development |
-| [python-app-fastapi] | container application          |
+| [python-app-fastapi] | python asgi app                |
 
 [terragrunt-devops]: https://github.com/generic-infrastructure/terragrunt-devops
 [python-app-fastapi]: https://github.com/generic-infrastructure/python-app-fastapi
