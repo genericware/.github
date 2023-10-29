@@ -7,7 +7,7 @@
 | projects                  | description                    |
 |---------------------------|--------------------------------|
 | [.github]                 | organization defaults          |
-| [terragrunt-devops]       | kubernetes cluster development |
+| [terragrunt-devops]       | kubernetes cluster devops      |
 | [minikube-cluster]        | minikube kubernetes cluster    |
 | [gke-cluster]             | google kubernetes cluster      |
 | [app-of-apps]             | ArgoCD app-of-apps chart       |
