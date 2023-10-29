@@ -4,10 +4,26 @@
 
 *free and open source templates*
 
-| projects             | description                    |
-|----------------------|--------------------------------|
-| [terragrunt-devops]  | kubernetes cluster development |
-| [python-app-fastapi] | python asgi app                |
+| projects                  | description                    |
+|---------------------------|--------------------------------|
+| [.github]                 | organization defaults          |
+| [terragrunt-devops]       | kubernetes cluster development |
+| [minikube-cluster]        | minikube kubernetes cluster    |
+| [gke-cluster]             | google kubernetes cluster      |
+| [app-of-apps]             | ArgoCD app-of-apps chart       |
+| [knative-eventing]        | knative eventing kustomization |
+| [knative-operator]        | knative operator kustomization |
+| [knative-serving]         | knative serving kustomization  |
+| [template-app-fastapi]    | fastapi cookiecutter template  |
+| [template-library-poetry] | poetry cookiecutter template   |
 
+[.github]: https://github.com/generic-infrastructure/.github
 [terragrunt-devops]: https://github.com/generic-infrastructure/terragrunt-devops
-[python-app-fastapi]: https://github.com/generic-infrastructure/python-app-fastapi
+[minikube-cluster]: https://github.com/generic-infrastructure/minikube-cluster
+[gke-cluster]: https://github.com/generic-infrastructure/gke-cluster
+[app-of-apps]: https://github.com/generic-infrastructure/app-of-apps
+[knative-eventing]: https://github.com/generic-infrastructure/knative-eventing
+[knative-operator]: https://github.com/generic-infrastructure/knative-operator
+[knative-serving]: https://github.com/generic-infrastructure/knative-serving
+[template-app-fastapi]: https://github.com/generic-infrastructure/template-app-fastapi
+[template-library-poetry]: https://github.com/generic-infrastructure/template-library-poetry
