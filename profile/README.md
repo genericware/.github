@@ -12,9 +12,6 @@
 | [gke-cluster]             | google kubernetes cluster      |
 | [app-of-apps]             | app-of-apps chart              |
 | [tenant]                  | tenant chart                   |
-| [knative-eventing]        | knative eventing kustomization |
-| [knative-operator]        | knative operator kustomization |
-| [knative-serving]         | knative serving kustomization  |
 | [template-app-fastapi]    | fastapi cookiecutter template  |
 | [template-library-poetry] | poetry cookiecutter template   |
 
