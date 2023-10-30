@@ -10,7 +10,7 @@
 | [terragrunt-devops]       | kubernetes cluster devops      |
 | [minikube-cluster]        | minikube kubernetes cluster    |
 | [gke-cluster]             | google kubernetes cluster      |
-| [app-of-apps]             | ArgoCD app-of-apps chart       |
+| [app-of-apps]             | app-of-apps chart              |
 | [tenant]                  | tenant chart                   |
 | [knative-eventing]        | knative eventing kustomization |
 | [knative-operator]        | knative operator kustomization |
