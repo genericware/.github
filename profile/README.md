@@ -11,6 +11,7 @@
 | [minikube-cluster]        | minikube kubernetes cluster    |
 | [gke-cluster]             | google kubernetes cluster      |
 | [app-of-apps]             | ArgoCD app-of-apps chart       |
+| [tenant]                  | tenant chart                   |
 | [knative-eventing]        | knative eventing kustomization |
 | [knative-operator]        | knative operator kustomization |
 | [knative-serving]         | knative serving kustomization  |
@@ -22,6 +23,7 @@
 [minikube-cluster]: https://github.com/generic-infrastructure/minikube-cluster
 [gke-cluster]: https://github.com/generic-infrastructure/gke-cluster
 [app-of-apps]: https://github.com/generic-infrastructure/app-of-apps
+[tenant]: https://github.com/generic-infrastructure/tenant
 [knative-eventing]: https://github.com/generic-infrastructure/knative-eventing
 [knative-operator]: https://github.com/generic-infrastructure/knative-operator
 [knative-serving]: https://github.com/generic-infrastructure/knative-serving
