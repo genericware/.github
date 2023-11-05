@@ -4,16 +4,16 @@
 
 *free and open source templates*
 
-| projects                  | description                    |
-|---------------------------|--------------------------------|
-| [.github]                 | organization defaults          |
-| [terragrunt-devops]       | kubernetes cluster devops      |
-| [minikube-cluster]        | minikube kubernetes cluster    |
-| [gke-cluster]             | google kubernetes cluster      |
-| [app-of-apps]             | app-of-apps chart              |
-| [tenant]                  | tenant chart                   |
-| [template-app-fastapi]    | fastapi cookiecutter template  |
-| [template-library-poetry] | poetry cookiecutter template   |
+| projects                 | description                 |
+|--------------------------|-----------------------------|
+| [.github]                | organization defaults       |
+| [terragrunt-devops]      | kubernetes cluster devops   |
+| [minikube-cluster]       | minikube kubernetes cluster |
+| [gke-cluster]            | google kubernetes cluster   |
+| [app-of-apps]            | app-of-apps chart           |
+| [tenant]                 | tenant chart                |
+| [cookiecutter-app]       | fastapi cookiecutter app    |
+| [cookiecutter-package]   | poetry cookiecutter package |
 
 [.github]: https://github.com/generic-infrastructure/.github
 [terragrunt-devops]: https://github.com/generic-infrastructure/terragrunt-devops
@@ -24,5 +24,5 @@
 [knative-eventing]: https://github.com/generic-infrastructure/knative-eventing
 [knative-operator]: https://github.com/generic-infrastructure/knative-operator
 [knative-serving]: https://github.com/generic-infrastructure/knative-serving
-[template-app-fastapi]: https://github.com/generic-infrastructure/template-app-fastapi
-[template-library-poetry]: https://github.com/generic-infrastructure/template-library-poetry
+[cookiecutter-app]: https://github.com/generic-infrastructure/cookiecutter-app
+[cookiecutter-package]: https://github.com/generic-infrastructure/cookiecutter-package
