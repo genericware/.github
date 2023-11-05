@@ -4,25 +4,4 @@
 
 *free and open source templates*
 
-| projects                 | description                 |
-|--------------------------|-----------------------------|
-| [.github]                | organization defaults       |
-| [terragrunt-devops]      | kubernetes cluster devops   |
-| [minikube-cluster]       | minikube kubernetes cluster |
-| [gke-cluster]            | google kubernetes cluster   |
-| [app-of-apps]            | app-of-apps chart           |
-| [tenant]                 | tenant chart                |
-| [cookiecutter-app]       | fastapi cookiecutter app    |
-| [cookiecutter-package]   | poetry cookiecutter package |
-
-[.github]: https://github.com/generic-infrastructure/.github
-[terragrunt-devops]: https://github.com/generic-infrastructure/terragrunt-devops
-[minikube-cluster]: https://github.com/generic-infrastructure/minikube-cluster
-[gke-cluster]: https://github.com/generic-infrastructure/gke-cluster
-[app-of-apps]: https://github.com/generic-infrastructure/app-of-apps
-[tenant]: https://github.com/generic-infrastructure/tenant
-[knative-eventing]: https://github.com/generic-infrastructure/knative-eventing
-[knative-operator]: https://github.com/generic-infrastructure/knative-operator
-[knative-serving]: https://github.com/generic-infrastructure/knative-serving
-[cookiecutter-app]: https://github.com/generic-infrastructure/cookiecutter-app
-[cookiecutter-package]: https://github.com/generic-infrastructure/cookiecutter-package
+[//]: # (todo: modus operandi)
