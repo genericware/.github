@@ -1,7 +1,10 @@
 <p style="color: white; border-width: 3px; border-radius: 30px; padding: 15px;">
-🌹 <i>generic-infrastructure</i>
+🍃 <i>genericware</i> 🍃
 </p>
 
-*free and open source templates*
+*Free and open source templates*
 
-[//]: # (todo: modus operandi)
+---
+
+_genericware_ is a collection of experimental tools for templating multi-tenant kubernetes clusters.
+
